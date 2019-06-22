@@ -1,0 +1,25 @@
+{
+	"Use strict": {
+		"prefix": "uses",
+		"body": [
+			"'use strict'\n",
+			"$0"
+		]
+	},
+	"Console.log": {
+		"prefix": "conl",
+		"body": "console.log($0)"
+	},
+	"Arrow Function": {
+		"prefix": "arrowfn",
+		"body": [
+			"($0) => {",
+				"\t",
+			"}"
+		]
+	},
+	"If condtion": {
+		"prefix": "ifcond",
+		"body": "if ($0) {\n\t\n}"
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.iconTheme": "vs-minimal",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "update.enableWindowsBackgroundUpdates": false,
+    "html.format.endWithNewline": true,
+    "git.autofetch": true,
+}
