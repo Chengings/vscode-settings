@@ -21,5 +21,12 @@
 	"If condtion": {
 		"prefix": "ifcond",
 		"body": "if ($0) {\n\t\n}"
+	},
+	"Try-Catch": {
+		"prefix": "tryc",
+		"body": ["try {",
+			"\t${0}",
+			"} catch (e) {\n\t\n}"
+		]
 	}
 }

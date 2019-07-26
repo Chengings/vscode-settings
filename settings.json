@@ -12,4 +12,5 @@
     "update.enableWindowsBackgroundUpdates": false,
     "html.format.endWithNewline": true,
     "git.autofetch": true,
+    "editor.cursorBlinking": "smooth",
 }
