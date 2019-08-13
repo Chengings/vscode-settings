@@ -1,0 +1,8 @@
+bungcip.better-toml
+chenxsan.vscode-standardjs
+felixfbecker.php-intellisense
+neilbrayfield.php-docblocker
+rust-lang.rust
+streetsidesoftware.code-spell-checker
+TabNine.tabnine-vscode
+
