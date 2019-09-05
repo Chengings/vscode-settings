@@ -14,5 +14,13 @@
 	"telemetry.enableTelemetry": false,
 	"update.enableWindowsBackgroundUpdates": false,
 	"workbench.colorTheme": "Monokai Dimmed",
-	"workbench.iconTheme": "vs-minimal"
+	"workbench.iconTheme": "vs-minimal",
+	"cSpell.userWords": [
+		"chengings",
+		"longdo"
+	],
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.enableBell": true,
+	"terminal.integrated.fontSize": 14,
+	"files.insertFinalNewline": true
 }
