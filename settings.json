@@ -15,7 +15,9 @@
 	"update.enableWindowsBackgroundUpdates": false,
 	"workbench.iconTheme": "vs-minimal",
 	"cSpell.userWords": [
+		"by",
 		"chengings",
+		"inversed",
 		"longdo"
 	],
 	"terminal.integrated.cursorStyle": "line",
