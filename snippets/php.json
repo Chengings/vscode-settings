@@ -1,0 +1,10 @@
+{
+	"var_dump": {
+		"prefix": "vd",
+		"body": "var_dump($$0);"
+	},
+	"var_dump & exit": {
+		"prefix": "vdex",
+		"body": "var_dump($$0); exit();"
+	},
+}
