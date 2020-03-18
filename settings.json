@@ -27,7 +27,7 @@
 	"terminal.integrated.fontSize": 16,
 	"files.insertFinalNewline": true,
 	"editor.acceptSuggestionOnEnter": "smart",
-	"editor.cursorStyle": "block-outline",
+	"editor.cursorStyle": "line-thin",
 	"editor.minimap.enabled": false,
 	"workbench.fontAliasing": "auto",
 	"workbench.iconTheme": "vs-minimal",
