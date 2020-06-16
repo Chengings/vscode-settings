@@ -3,7 +3,6 @@
 	"editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontLigatures": true,
 	"editor.fontSize": 17,
-	"editor.formatOnPaste": true,
 	"editor.tabSize": 2,
 	"editor.wordWrap": "on",
 	"files.autoSave": "onFocusChange",
@@ -20,7 +19,8 @@
 		"fullname",
 		"inversed",
 		"lastname",
-		"longdo"
+		"longdo",
+		"rgbcolor"
 	],
 	"terminal.integrated.cursorStyle": "line",
 	"terminal.integrated.enableBell": true,
@@ -30,15 +30,16 @@
 	"editor.cursorStyle": "line-thin",
 	"editor.minimap.enabled": false,
 	"workbench.fontAliasing": "auto",
-	"workbench.iconTheme": "vs-minimal",
 	"window.autoDetectColorScheme": true,
-	"workbench.preferredLightColorTheme": "Solarized Light",
-	"workbench.preferredDarkColorTheme": "Monokai",
-	"workbench.colorTheme": "Solarized Light",
+	"workbench.preferredLightColorTheme": "Abyss",
+	"workbench.preferredDarkColorTheme": "Abyss",
 	"window.nativeTabs": true,
 	"search.smartCase": true,
 	"scm.countBadge": "off",
 	"update.mode": "start",
 	"git.autofetchPeriod": 600,
-	"git.autoStash": true
+	"git.autoStash": true,
+	"tabnine.experimentalAutoImports": true,
+	"workbench.colorTheme": "Abyss",
+	"editor.formatOnPaste": true
 }
