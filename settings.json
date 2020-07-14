@@ -40,6 +40,5 @@
 	"git.autofetchPeriod": 600,
 	"git.autoStash": true,
 	"tabnine.experimentalAutoImports": true,
-	"workbench.colorTheme": "Abyss",
-	"editor.formatOnPaste": true
+	"workbench.colorTheme": "Abyss"
 }
