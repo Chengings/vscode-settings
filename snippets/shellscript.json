@@ -21,6 +21,18 @@
 			"done"
 		]
 	},
+	"If Condtion": {
+		"prefix": "ifc",
+		"body": [
+			"if test $0",
+			"then",
+			"\t",
+			"#elfi",
+			"#then",
+			"#else",
+			"fi"
+		]
+	},
 	"Shebang": {
 		"prefix": "shebang",
 		"body": [
