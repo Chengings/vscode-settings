@@ -31,8 +31,8 @@
 	"editor.minimap.enabled": false,
 	"workbench.fontAliasing": "auto",
 	"window.autoDetectColorScheme": true,
-	"workbench.preferredLightColorTheme": "Abyss",
-	"workbench.preferredDarkColorTheme": "Abyss",
+	"workbench.preferredLightColorTheme": "Solarized Dark",
+	"workbench.preferredDarkColorTheme": "Solarized Dark",
 	"window.nativeTabs": true,
 	"search.smartCase": true,
 	"scm.countBadge": "off",
@@ -40,5 +40,8 @@
 	"git.autofetchPeriod": 600,
 	"git.autoStash": true,
 	"tabnine.experimentalAutoImports": true,
-	"workbench.colorTheme": "Abyss"
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"workbench.colorTheme": "Solarized Dark"
 }
