@@ -39,5 +39,10 @@
 			"#!/usr/bin/env $1",
 			"\n$0"
 		]
+	},
+	"Check command": {
+		"prefix": "command",
+		"body": "command -v $0 >/dev/null 2>&1",
+		"description": "`command` is in sh, POSIX compatible."
 	}
 }
