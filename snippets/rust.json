@@ -1,0 +1,10 @@
+{
+	"fn main": {
+		"prefix": "fnmain",
+		"body": [
+			"fn main () {",
+			"\t$0",
+			"}"
+		]
+	}
+}
