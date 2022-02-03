@@ -2,7 +2,7 @@
 	"fn main": {
 		"prefix": "fnmain",
 		"body": [
-			"fn main () {",
+			"fn main() {",
 			"\t$0",
 			"}"
 		]
