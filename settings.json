@@ -13,6 +13,7 @@
 	"telemetry.enableTelemetry": false,
 	"update.enableWindowsBackgroundUpdates": false,
 	"cSpell.userWords": [
+		"Keychain",
 		"by",
 		"chengings",
 		"firstname",
@@ -20,6 +21,8 @@
 		"inversed",
 		"lastname",
 		"longdo",
+		"mktemp",
+		"rclone",
 		"rgbcolor"
 	],
 	"terminal.integrated.cursorStyle": "line",
