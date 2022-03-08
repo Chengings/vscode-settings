@@ -34,8 +34,6 @@
 	"editor.minimap.enabled": false,
 	"workbench.fontAliasing": "auto",
 	"window.autoDetectColorScheme": true,
-	"workbench.preferredLightColorTheme": "Solarized Dark",
-	"workbench.preferredDarkColorTheme": "Solarized Dark",
 	"window.nativeTabs": true,
 	"search.smartCase": true,
 	"scm.countBadge": "off",
