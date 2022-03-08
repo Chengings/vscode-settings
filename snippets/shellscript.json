@@ -44,5 +44,9 @@
 		"prefix": "command",
 		"body": "command -v $0 >/dev/null 2>&1",
 		"description": "`command` is in sh, POSIX compatible."
+	},
+	"Shell check": {
+		"prefix": "shellc",
+		"body": "# shellcheck shell=$1sh$0",
 	}
 }
