@@ -48,5 +48,9 @@
 	"Shell check": {
 		"prefix": "shellc",
 		"body": "# shellcheck shell=$1sh$0",
+	},
+	"Shell check - Bash": {
+		"prefix": "shellb",
+		"body": "# shellcheck shell=bash"
 	}
 }
