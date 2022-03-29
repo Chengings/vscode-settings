@@ -6,5 +6,9 @@
 			"\t$0",
 			"}"
 		]
+	},
+	"print line": {
+		"prefix": "println",
+		"body": [ "println!(\"{}\", $0);" ]
 	}
 }
