@@ -10,5 +10,9 @@
 	"print line": {
 		"prefix": "println",
 		"body": [ "println!(\"{}\", $0);" ]
+	},
+	"derive debug": {
+		"prefix": "derive-de",
+		"body": [ "#[derive(Debug)]" ]
 	}
 }
