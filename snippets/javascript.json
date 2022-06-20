@@ -11,19 +11,19 @@
 		"body": "console.log($0)"
 	},
 	"Arrow Function": {
-		"prefix": "arrowfn",
+		"prefix": "fn",
 		"body": [
 			"($0) => {",
 				"\t",
 			"}"
 		]
 	},
-	"If condtion": {
-		"prefix": "ifcond",
+	"If": {
+		"prefix": "if",
 		"body": "if ($0) {\n\t\n}"
 	},
 	"Try-Catch": {
-		"prefix": "tryc",
+		"prefix": "try",
 		"body": ["try {",
 			"\t${0}",
 			"} catch (e) {\n\t\n}"
